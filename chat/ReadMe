@@ -1,0 +1,16 @@
+CS 4470 Programming Assignment 1
+A Chat Application for Remote Message Exchange
+Group 2: Chen, Chung An & Naing, Justonna  
+
+
+Usage:
+./chat [port]
+
+Type "help" to list all available commands.
+
+
+
+Needs g++ complier and Linux to test the program.
+Needs pthread linker.
+(We deployed using CodeBlock IDE).
+
